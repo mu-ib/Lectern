@@ -73,6 +73,3 @@ app.post('/logout', (req, res) => {
 app.listen(4001, () => {
     console.log("Server is running")
 })
-//mongodb+srv://lectern:GhsBXzYjur5EDD0P@lecternblog.kacz5ux.mongodb.net/?retryWrites=true&w=majority
-//username: lectern
-//password: GhsBXzYjur5EDD0P
